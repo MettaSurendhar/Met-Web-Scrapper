@@ -1,0 +1,19 @@
+{
+  "name": "weg-scrapping",
+  "version": "1.0.0",
+  "description": "A web scrapper build by nodejs and puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Metta Surendhar",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cron": "^3.1.6",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.8",
+    "path": "^0.12.7",
+    "puppeteer": "^21.7.0"
+  }
+}
